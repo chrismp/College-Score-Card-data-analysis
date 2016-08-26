@@ -50,9 +50,9 @@ eda1.Summary <- summary(df.Subset2)
 
 
 ## THINGS TO CHECK
-Repayment rates by university type (public, private, etc.)
-Repayment rates over time, by university
-Repayment rates by income level
-Repayment rates by race?
-Repayment rates by gender?
-Group universities by undergrad population -- variable UGDS
+# Repayment rates by university type (public, private, etc.)
+# Repayment rates over time, by university
+# Repayment rates by income level
+# Repayment rates by race?
+# Repayment rates by gender?
+# Group universities by undergrad population -- variable UGDS
