@@ -1,3 +1,6 @@
 *.zip
 *.csv
+*.Rproj
 .~lock*
+.Rproj.user
+.Rhistory
